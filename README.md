@@ -1,5 +1,7 @@
 # Steam-Table-SVM-Regression
 
+![Plot](https://github.com/kristianespina/Steam-Table-SVM-Regression/blob/master/plot.png?raw=true)
+
 ## Description
 
 An application of support vector machine regression in predicting the resulting enthalpy of saturated steam based on the given input (temperature in ºC, and pressure in MPa) 
